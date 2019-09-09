@@ -1,2 +1,4 @@
 testignore.txt
 log/
+*.orig
+
